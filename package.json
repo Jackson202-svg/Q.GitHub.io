@@ -1,0 +1,9 @@
+{
+  "name": "jackson-site",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo building...",
+    "start": "node main.js"
+  },
+  "dependencies": {}
+}
